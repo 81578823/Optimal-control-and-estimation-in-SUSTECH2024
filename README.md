@@ -3,7 +3,9 @@ Optimal control and estimation final project in 2024 in SUSTECH
 
 ## P1
 The first task requires using EKF to obtain the state of the bipedal robot XiaoTian as the input of RL.
+
 https://github.com/user-attachments/assets/2eb9fdfb-f633-4d0c-81d6-581164c0ee9b
+
 
 ## P2
 The second task requires the use of RL to train the inverted pendulum to remain vertically upward, or to move from vertically downward to vertically upward and then maintain it
